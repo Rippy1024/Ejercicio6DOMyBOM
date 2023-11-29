@@ -1,0 +1,5 @@
+main {
+    height: 550px;
+    transition: background-color 0.5s ease-in-out;
+}
+
